@@ -2,6 +2,7 @@
 
 個人のポートフォリオサイトのリポジトリです。
 趣味や特技を増やし、理想へ近づくための記録として作成しました。
+頑張ります。
 
 ## 公開サイト (Live Demo)
 **[https://ruto-arca.github.io/](https://ruto-arca.github.io/)**
