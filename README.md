@@ -4,7 +4,7 @@
 趣味や特技を増やし、理想へ近づくための記録として作成しました。
 頑張ります。
 
-## 公開サイト (Live Demo)
+## 公開サイト
 **[https://ruto-arca.github.io/](https://ruto-arca.github.io/)**
 
 ## 関連リンク
