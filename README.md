@@ -11,7 +11,7 @@
 * **Twitter**: [https://x.com/RutoArca](https://x.com/RutoArca)
 * **GitHub**: [https://github.com/Ruto-Arca](https://github.com/Ruto-Arca)
 
-## 趣味・特技の目標 (Goals)
+## 習得したい趣味・特技の目標 (Goals)
 現在、以下の分野に関心を持ち、スキル向上を目指しています。
 
 * **イラスト**: 絵を描けるようになること
