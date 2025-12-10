@@ -5,7 +5,7 @@
 頑張ります。
 
 ## 公開サイト
-**[https://ruto-arca.github.io/](https://ruto-arca.github.io/)**
+**[https://ruto-arca.com/](https://ruto-arca.github.io/)](https://rutoarca.com/)**
 
 ## 関連リンク
 * **Twitter**: [https://x.com/RutoArca](https://x.com/RutoArca)
