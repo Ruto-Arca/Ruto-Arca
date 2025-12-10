@@ -10,7 +10,7 @@
 ## 関連リンク
 * **Twitter**: [https://x.com/RutoArca](https://x.com/RutoArca)
 * **GitHub**: [https://github.com/Ruto-Arca](https://github.com/Ruto-Arca)
-* **GitHub**:[https://www.pixiv.net/users/121802913](https://www.pixiv.net/users/121802913)
+* **Pixiv**:[https://www.pixiv.net/users/121802913](https://www.pixiv.net/users/121802913)
 
 ## 習得したい趣味・特技の目標 (Goals)
 現在、以下の分野に関心を持ち、スキル向上を目指しています。
